@@ -1,7 +1,7 @@
 # Autohotkey
- Script files to use with Autohotkey  
+Script files to use with [Autohotkey](http://www.autohotkey.com)  
 
- ## [Houdini Autohotkey Hotkeys](Houdini_Hotkeys.ahk)
+ ## [Houdini Autohotkey file](Houdini_Hotkeys.ahk)
  It contains:  
  - all the hotkeys to react like unreal hotkeys  
  - a nice shortcut to add hotkeys for copy (CTRL+SHIFT+C) / paste (CTRL+SHIFT+V) as relative reference  
