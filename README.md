@@ -1,6 +1,8 @@
 # autohotkey
  Script files for Autohotkey  
 
- The file Houdini_Hotkeys contains all the hotkeys for unreal and a nice short to add hotkey for copy/paste as relative reference.  
-
- See comment on top of the [Houdini Autohotkey Hotkeys](Houdini_Hotkeys.ahk) file
+ ## [Houdini Autohotkey Hotkeys](Houdini_Hotkeys.ahk)
+ It contains:  
+ - all the hotkeys to react like unreal hotkeys  
+ - a nice shortcut to add hotkeys for copy (CTRL+SHIFT+C) / paste (CTRL+SHIFT+V) as relative reference  
+ - a hotkey with the key < (for azerty keyboard) to make the left button react like middle button on my notepad.
