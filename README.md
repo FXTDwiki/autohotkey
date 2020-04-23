@@ -9,3 +9,5 @@ Script files to use with [Autohotkey](http://www.autohotkey.com)
  
 ## Keyboard Hotkey Mapping 
 ![Keyboard Mapping](ahk_unreal_like_vop_keyboard.png)
+
+You can find more info on my website http://fxtd.free.fr/index.php/wiki/lmb-hotkeys-like-unreal/
