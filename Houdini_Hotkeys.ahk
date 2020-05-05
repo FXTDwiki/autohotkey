@@ -18,18 +18,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 #IfWinActive ahk_class Qt5QWindowIcon ;name of the window for Houdini in Windows
 
-;------------------
-;MERGE NODE
-;------------------
-~LButton & M::
-	KeyWait LButton, M
-	Send, {Tab}
-	Sleep 50
-	Send, merge
-	Send, {enter}
-	Sleep 125
-	Click
-return
 
 ;------------------
 ;MULTIPLY VOP NODE
